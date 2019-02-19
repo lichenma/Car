@@ -1,4 +1,4 @@
-# Car class
+# Car Program
 
 A starting python project used to get familiar with writing and running code in Pycharm
 
